@@ -1,6 +1,6 @@
 boto==2.42.0
 dj-database-url==0.4.1
-Django==1.10
+Django==1.10.1
 django-cache-url==1.2.0
 django-dotenv==1.4.1
 django-redis==4.4.4
