@@ -8,6 +8,6 @@ django-storages==1.5.1
 gunicorn==19.6.0
 mysqlclient==1.3.7
 Pillow==3.4.2
-pytz==2016.7
+pytz==2016.10
 requests==2.11.1
 whitenoise==3.2.2
