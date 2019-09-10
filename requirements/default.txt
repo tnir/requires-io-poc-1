@@ -4,7 +4,7 @@ Django==2.2.5
 django-cache-url==3.0.0
 django-dotenv==1.4.2
 django-redis==4.10.0
-django-storages==1.7.1
+django-storages==1.7.2
 gunicorn==19.9.0
 mysqlclient==1.4.4
 Pillow==6.1.0
