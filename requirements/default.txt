@@ -1,4 +1,4 @@
-boto3==1.9.239
+boto3==1.9.249
 dj-database-url==0.5.0
 Django==2.2.6
 django-cache-url==3.0.0
